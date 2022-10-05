@@ -1,0 +1,19 @@
+h1 {
+	font-family: 'Balsamiq Sans', cursive;
+}
+
+div {
+	display: inline-block;
+	width: 45vw;
+}
+
+.eee {
+	color: rgb(0, 0, 0);
+	background-color: hsla(60, 80%, 50%, 1.0);
+    border-radius: 30px;
+    display: inline-block;
+    padding: 30px 120px 30px 30px;
+	font-family: "Verdana";
+    font-weight: bold;
+    text-decoration: none;
+}
